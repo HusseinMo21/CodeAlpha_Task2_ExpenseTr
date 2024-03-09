@@ -1,0 +1,23 @@
+.holbg {
+    /* background-color: #f1f5f9; */
+    min-height: 100vh;
+    max-height: auto;
+    position: relative;
+    padding: 20px;
+    color: #1bd3c4;
+    text-align: center;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.img {
+    width: 100%;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    inset: 0;
+    z-index: -1;
+    min-height: 100vh;
+    max-height: auto;
+}
